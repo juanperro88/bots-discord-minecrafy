@@ -1,5 +1,5 @@
 # bots-discord-minecraf st3al
-Este bot es con node esta bien desarrollado y es muy facil de usar recomiendo usar vps si vas ah tener varios
+Este bot es con javascript esta bien desarrollado y es muy facil de usar recomiendo usar vps si vas ah tener varios
 aca es el bot principal una demostracion y importanmte para utilizarlo el que tiene permisos tiene que crear liencias sino no le deja 
 <img width="361" height="133" alt="image" src="https://github.com/user-attachments/assets/b855632e-98ce-42a7-8a0e-a8c758964b1b" />
 asi es cuando tienes licencia eso igual tu lo controlas y podes generar las que quieras 
